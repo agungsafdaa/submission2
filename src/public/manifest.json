@@ -1,0 +1,20 @@
+{
+    "short_name": "MakanYuk.org",
+    "name": "MakanYuk.org",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "images/16x16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      },
+      {
+        "src": "images/32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "index.html?launcher=true",
+    "theme_color": "#a040a0",
+    "background_color": "#EEEEEE"
+  }
